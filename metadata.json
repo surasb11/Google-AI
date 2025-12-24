@@ -1,0 +1,5 @@
+{
+  "name": "DiffMaster AI",
+  "description": "A professional-grade side-by-side text and code comparison tool with persistent change history, AI-powered summaries, and ZIP export capabilities.",
+  "requestFramePermissions": []
+}
